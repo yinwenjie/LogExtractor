@@ -6,4 +6,4 @@ cd output
 
 cmake ..
 make
-../output/LogExtractor
+../output/LogExtractor ../structural_analysis_service_2020-11-19.log StructuralEventToJsons ./output.log
